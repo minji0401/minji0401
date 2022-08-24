@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<pre>
+
+   ██████╗ ██╗   ██╗███████╗████████╗
+██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝
+╚═╝██║  ██║██║   ██║███████╗   ██║   
+██╗██║  ██║██║   ██║╚════██║   ██║   
+╚═╝██████╔╝╚██████╔╝███████║   ██║   
+   ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝                                         
+</pre>
 
 <img src="https://img.shields.io/badge/C Language-7F2B7B?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
