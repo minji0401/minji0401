@@ -1,4 +1,4 @@
-###  💜 개발자 먼지 👨🏼‍💻 💜
+###  먼지 👨🏼‍💻
 
 <!--
 **minji0401/minji0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
